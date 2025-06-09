@@ -1,7 +1,5 @@
 # Suspicious-Browser-Extensions
 
-![Brave Shield Logo](https://brave.com/wp-content/uploads/2020/11/brave-shields-logo.png)
-
 ## 🔍 Audit Summary
 Conducted a security review of installed Brave extensions to:
 - Remove unnecessary/redundant extensions
