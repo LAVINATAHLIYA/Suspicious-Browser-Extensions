@@ -19,8 +19,6 @@ Conducted a security review of installed Brave extensions to:
    - No noticeable impact on browsing speed
    - No unexpected pop-ups or redirects observed
 
-## 📝 Full Audit Details
-[View Complete Audit Log](./extension_audit_log.md)
 
 ## 🔒 Security Recommendations
 - **Monthly Audits**: Review extensions regularly
